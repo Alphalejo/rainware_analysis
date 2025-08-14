@@ -5,6 +5,7 @@ Una empresa minorista de ropa para lluvia desea predecir ventas futuras y analiz
 
 ## Esquema del Proyecto
 
+'''text
 sales_prediction_project/
 ├── data/                   # Archivos de entrada (CSV de ventas)
 ├── models/                 # Modelos de predicción entrenados y scripts asociados
@@ -16,12 +17,12 @@ sales_prediction_project/
 ├── etl.py                  # Script principal del pipeline ETL
 ├── README.md               # Documentación técnica del proyecto
 ├── requirements.txt        # Lista de dependencias del entorno virtual
-└── .env.example            # Variables de entorno necesarias (API key, DB URL, etc.)
+└── .env.example            # Variables de entorno necesarias (API key, DB URL, etc.)'''
 
 ## Como ejecutar el proyecto
 
 ### 1. Descomprimir la carpeta
-Aqui encontrara el esquema anteriormente mencionado
+Aqui encontrara el esquema anteriormente mencionado tambien puede descargar el repositorio de github https://github.com/Alphalejo/rainware_analysis
 
 ### 2. Crear y activar el entorno virtual
 python -m venv venv
