@@ -17,7 +17,8 @@ sales_prediction_project/
 ├── etl.py                  # Script principal del pipeline ETL
 ├── README.md               # Documentación técnica del proyecto
 ├── requirements.txt        # Lista de dependencias del entorno virtual
-└── .env.example            # Variables de entorno necesarias (API key, DB URL, etc.)```
+└── .env.example            # Variables de entorno necesarias (API key, DB URL, etc.)
+```
 
 ## Como ejecutar el proyecto
 
@@ -31,7 +32,8 @@ Cree y ejecute un entorno virtual
 ```python
 python -m venv venv
 source venv/bin/activate  # En Linux/Mac
-.\venv\Scripts\activate   # En Windows```
+.\venv\Scripts\activate   # En Windows
+```
 
 
 ### 3. Instalar Dependencias
@@ -39,7 +41,8 @@ El archivo requirement.txt contiene las librerias y archivos necesarion para el 
 
 Con el siguiente codigo puede instalar todas las dependencias
 ```python
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ### 4. Configurar variables de entorno
 Crea un archivo .env basado en .env.example con las credenciales
@@ -48,7 +51,8 @@ Crea un archivo .env basado en .env.example con las credenciales
 esto ejecutara la extraccion, procesamiento necesario de datos, hara la prediccion de ventas, se conectara, creara las tablas en PostgreSQL local y en Supabase y cargara los datos ya procesados.
 
 ```python
-python etl.py```
+python etl.py
+```
 
 
 ## Notas:
