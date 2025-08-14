@@ -55,10 +55,11 @@ python etl.py
 ```
 
 
-## Notas:
-- Algunas funciones necesarias, asi como los queries en SQL estan en archivos aparte en la carpeta toolbox para simplificar el codigo y facilitar la reutilizacion de estos recursos.
-- El archivo draft_analysis.ipynb no es para produccion, se dejo unicamente con objetivos ilustrativos para ver el proceso que se siguio analizando variables y haciendo un EDA que no es necesario para el codigo final de ejecución.
-
 ## Dashboard
 El dashboard generado en looker studio puede verlo en el siguiente link publico
 https://lookerstudio.google.com/u/0/reporting/e0eec297-cb0c-4f13-98aa-4bd51893089f/page/EegUF
+
+## Notas:
+- Algunas funciones necesarias, asi como los queries en SQL estan en archivos aparte en la carpeta toolbox para simplificar el codigo y facilitar la reutilizacion de estos recursos.
+- El archivo draft_analysis.ipynb no es para produccion, se dejo unicamente con objetivos ilustrativos para ver el proceso que se siguio analizando variables y haciendo un EDA que no es necesario para el codigo final de ejecución.
+- Las bases de datos tanto local como en supabase deben estar creadas para que funcione adecuadamente el codigo
