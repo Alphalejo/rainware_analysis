@@ -1,0 +1,1001 @@
+date,product_id,sales,price,category
+7/14/2024,1,9,49.96,Mochilas impermeables
+2/11/2024,2,62,96.06,Overoles de lluvia
+6/16/2024,3,17,78.56,Sombreros impermeables
+3/13/2024,4,5,67.89,Conjuntos de lluvia infantiles
+9/11/2024,3,64,78.56,Sombreros impermeables
+7/27/2024,5,18,32.48,Guantes resistentes al agua
+9/1/2024,6,23,32.48,Ponchos de lluvia
+3/12/2024,7,49,24.65,Impermeables largos
+10/3/2024,7,77,24.65,Impermeables largos
+5/25/2024,8,75,89.29,Paraguas pequeños
+6/1/2024,9,25,68.09,Pantalones impermeables
+1/14/2024,10,16,76.65,Botas de lluvia
+9/19/2024,7,1,24.65,Impermeables largos
+2/20/2024,11,70,21.65,Paraguas plegables
+10/7/2024,7,28,24.65,Impermeables largos
+5/14/2024,12,94,97.59,Zapatos impermeables urbanos
+11/22/2024,7,57,24.65,Impermeables largos
+9/12/2024,13,63,86.6,Paraguas automáticos
+1/16/2024,14,21,36.99,Leggings repelentes
+11/15/2024,15,63,34.55,Fundas para mochilas
+10/6/2024,16,76,34.67,Bolsos repelentes
+1/18/2024,8,83,89.29,Paraguas pequeños
+12/25/2024,5,73,32.48,Guantes resistentes al agua
+9/4/2024,5,75,32.48,Guantes resistentes al agua
+3/29/2024,7,76,24.65,Impermeables largos
+12/6/2024,15,93,34.55,Fundas para mochilas
+8/24/2024,8,33,89.29,Paraguas pequeños
+3/2/2024,17,25,44.34,Abrigos con capucha
+6/26/2024,9,74,68.09,Pantalones impermeables
+8/23/2024,13,59,86.6,Paraguas automáticos
+4/14/2024,2,85,96.06,Overoles de lluvia
+12/8/2024,14,77,36.99,Leggings repelentes
+4/18/2024,18,20,61.98,Cubrezapatos de silicona
+12/15/2024,3,66,78.56,Sombreros impermeables
+2/11/2024,19,16,54.56,Fundas para cochecitos
+3/26/2024,20,78,43.3,Bufandas sintéticas
+6/17/2024,8,40,89.29,Paraguas pequeños
+6/13/2024,3,20,78.56,Sombreros impermeables
+6/18/2024,11,77,21.65,Paraguas plegables
+5/26/2024,13,60,86.6,Paraguas automáticos
+12/26/2024,21,64,68.95,Botas infantiles
+1/30/2024,3,32,78.56,Sombreros impermeables
+3/27/2024,13,34,86.6,Paraguas automáticos
+2/5/2024,7,53,24.65,Impermeables largos
+3/3/2024,1,42,49.96,Mochilas impermeables
+3/16/2024,9,53,68.09,Pantalones impermeables
+1/21/2024,22,81,31.16,Gorras repelentes
+5/11/2024,11,42,21.65,Paraguas plegables
+5/3/2024,11,67,21.65,Paraguas plegables
+10/24/2024,9,92,68.09,Pantalones impermeables
+1/6/2024,6,36,32.48,Ponchos de lluvia
+4/22/2024,23,73,43.37,Chaquetas cortas impermeables
+11/8/2024,12,32,97.59,Zapatos impermeables urbanos
+11/10/2024,6,49,32.48,Ponchos de lluvia
+11/30/2024,4,42,67.89,Conjuntos de lluvia infantiles
+6/22/2024,8,90,89.29,Paraguas pequeños
+6/19/2024,18,6,61.98,Cubrezapatos de silicona
+7/11/2024,7,42,24.65,Impermeables largos
+7/16/2024,3,88,78.56,Sombreros impermeables
+2/29/2024,3,28,78.56,Sombreros impermeables
+11/6/2024,10,54,76.65,Botas de lluvia
+2/29/2024,11,74,21.65,Paraguas plegables
+6/27/2024,9,26,68.09,Pantalones impermeables
+10/2/2024,15,8,34.55,Fundas para mochilas
+9/18/2024,4,13,67.89,Conjuntos de lluvia infantiles
+8/15/2024,15,29,34.55,Fundas para mochilas
+7/6/2024,10,68,76.65,Botas de lluvia
+11/7/2024,14,100,36.99,Leggings repelentes
+3/18/2024,3,56,78.56,Sombreros impermeables
+6/18/2024,24,19,49.31,Chalecos repelentes al agua
+11/10/2024,8,88,89.29,Paraguas pequeños
+3/23/2024,17,76,44.34,Abrigos con capucha
+8/9/2024,20,75,43.3,Bufandas sintéticas
+10/17/2024,25,59,56.49,Capas para mascotas
+10/27/2024,22,48,31.16,Gorras repelentes
+6/7/2024,10,87,76.65,Botas de lluvia
+3/29/2024,1,14,49.96,Mochilas impermeables
+3/31/2024,16,22,34.67,Bolsos repelentes
+3/13/2024,6,35,32.48,Ponchos de lluvia
+5/27/2024,3,58,78.56,Sombreros impermeables
+2/6/2024,9,79,68.09,Pantalones impermeables
+10/4/2024,13,76,86.6,Paraguas automáticos
+9/13/2024,3,31,78.56,Sombreros impermeables
+9/15/2024,24,8,49.31,Chalecos repelentes al agua
+3/14/2024,11,70,21.65,Paraguas plegables
+1/27/2024,22,57,31.16,Gorras repelentes
+5/16/2024,9,65,68.09,Pantalones impermeables
+3/18/2024,3,87,78.56,Sombreros impermeables
+1/31/2024,22,39,31.16,Gorras repelentes
+4/11/2024,20,35,43.3,Bufandas sintéticas
+7/28/2024,4,67,67.89,Conjuntos de lluvia infantiles
+8/12/2024,1,68,49.96,Mochilas impermeables
+4/19/2024,13,80,86.6,Paraguas automáticos
+5/29/2024,18,19,61.98,Cubrezapatos de silicona
+4/26/2024,16,58,34.67,Bolsos repelentes
+2/1/2024,5,37,32.48,Guantes resistentes al agua
+2/22/2024,23,60,43.37,Chaquetas cortas impermeables
+12/4/2024,13,60,86.6,Paraguas automáticos
+2/13/2024,18,73,61.98,Cubrezapatos de silicona
+1/16/2024,21,88,68.95,Botas infantiles
+2/22/2024,23,71,43.37,Chaquetas cortas impermeables
+7/4/2024,18,92,61.98,Cubrezapatos de silicona
+7/8/2024,5,42,32.48,Guantes resistentes al agua
+3/21/2024,22,99,31.16,Gorras repelentes
+2/21/2024,20,33,43.3,Bufandas sintéticas
+5/29/2024,16,91,34.67,Bolsos repelentes
+8/20/2024,17,6,44.34,Abrigos con capucha
+6/2/2024,15,1,34.55,Fundas para mochilas
+3/23/2024,24,100,49.31,Chalecos repelentes al agua
+4/1/2024,7,87,24.65,Impermeables largos
+9/26/2024,16,30,34.67,Bolsos repelentes
+10/13/2024,16,92,34.67,Bolsos repelentes
+7/16/2024,21,61,68.95,Botas infantiles
+1/4/2024,6,100,32.48,Ponchos de lluvia
+3/5/2024,12,98,97.59,Zapatos impermeables urbanos
+1/1/2024,11,89,21.65,Paraguas plegables
+4/10/2024,9,78,68.09,Pantalones impermeables
+4/8/2024,23,97,43.37,Chaquetas cortas impermeables
+10/6/2024,12,73,97.59,Zapatos impermeables urbanos
+4/17/2024,14,82,36.99,Leggings repelentes
+3/8/2024,6,1,32.48,Ponchos de lluvia
+11/14/2024,11,27,21.65,Paraguas plegables
+7/16/2024,1,75,49.96,Mochilas impermeables
+11/4/2024,9,85,68.09,Pantalones impermeables
+2/20/2024,20,38,43.3,Bufandas sintéticas
+12/11/2024,8,6,89.29,Paraguas pequeños
+3/25/2024,13,53,86.6,Paraguas automáticos
+11/24/2024,11,43,21.65,Paraguas plegables
+1/23/2024,22,98,31.16,Gorras repelentes
+8/15/2024,2,54,96.06,Overoles de lluvia
+2/2/2024,16,32,34.67,Bolsos repelentes
+2/27/2024,24,25,49.31,Chalecos repelentes al agua
+6/11/2024,21,66,68.95,Botas infantiles
+2/6/2024,23,94,43.37,Chaquetas cortas impermeables
+11/6/2024,14,73,36.99,Leggings repelentes
+5/18/2024,11,74,21.65,Paraguas plegables
+7/7/2024,11,54,21.65,Paraguas plegables
+7/12/2024,12,92,97.59,Zapatos impermeables urbanos
+3/14/2024,2,37,96.06,Overoles de lluvia
+10/21/2024,13,30,86.6,Paraguas automáticos
+9/18/2024,8,72,89.29,Paraguas pequeños
+12/12/2024,3,51,78.56,Sombreros impermeables
+4/27/2024,8,20,89.29,Paraguas pequeños
+11/10/2024,13,74,86.6,Paraguas automáticos
+3/13/2024,1,80,49.96,Mochilas impermeables
+4/4/2024,10,54,76.65,Botas de lluvia
+7/10/2024,8,18,89.29,Paraguas pequeños
+8/12/2024,7,90,24.65,Impermeables largos
+1/7/2024,2,95,96.06,Overoles de lluvia
+8/4/2024,14,68,36.99,Leggings repelentes
+5/19/2024,8,89,89.29,Paraguas pequeños
+9/25/2024,22,91,31.16,Gorras repelentes
+3/28/2024,11,64,21.65,Paraguas plegables
+8/2/2024,8,3,89.29,Paraguas pequeños
+8/21/2024,11,69,21.65,Paraguas plegables
+10/27/2024,18,100,61.98,Cubrezapatos de silicona
+4/3/2024,2,1,96.06,Overoles de lluvia
+2/10/2024,3,89,78.56,Sombreros impermeables
+6/30/2024,12,30,97.59,Zapatos impermeables urbanos
+5/9/2024,6,75,32.48,Ponchos de lluvia
+6/12/2024,14,37,36.99,Leggings repelentes
+5/24/2024,19,34,54.56,Fundas para cochecitos
+7/7/2024,9,94,68.09,Pantalones impermeables
+12/11/2024,8,99,89.29,Paraguas pequeños
+10/21/2024,22,88,31.16,Gorras repelentes
+10/19/2024,17,86,44.34,Abrigos con capucha
+8/22/2024,23,1,43.37,Chaquetas cortas impermeables
+7/9/2024,12,93,97.59,Zapatos impermeables urbanos
+5/29/2024,19,8,54.56,Fundas para cochecitos
+12/11/2024,5,71,32.48,Guantes resistentes al agua
+2/6/2024,11,74,21.65,Paraguas plegables
+11/24/2024,18,96,61.98,Cubrezapatos de silicona
+2/19/2024,7,70,24.65,Impermeables largos
+8/2/2024,11,21,21.65,Paraguas plegables
+2/20/2024,23,80,43.37,Chaquetas cortas impermeables
+8/5/2024,18,49,61.98,Cubrezapatos de silicona
+6/22/2024,17,57,44.34,Abrigos con capucha
+9/2/2024,15,24,34.55,Fundas para mochilas
+3/13/2024,14,78,36.99,Leggings repelentes
+7/6/2024,25,43,56.49,Capas para mascotas
+4/17/2024,4,94,67.89,Conjuntos de lluvia infantiles
+4/13/2024,14,34,36.99,Leggings repelentes
+11/24/2024,1,29,49.96,Mochilas impermeables
+8/11/2024,7,31,24.65,Impermeables largos
+9/20/2024,7,10,24.65,Impermeables largos
+12/17/2024,4,24,67.89,Conjuntos de lluvia infantiles
+9/19/2024,4,68,67.89,Conjuntos de lluvia infantiles
+8/13/2024,17,14,44.34,Abrigos con capucha
+10/24/2024,1,33,49.96,Mochilas impermeables
+6/4/2024,1,64,49.96,Mochilas impermeables
+1/10/2024,11,10,21.65,Paraguas plegables
+4/12/2024,5,34,32.48,Guantes resistentes al agua
+2/27/2024,15,46,34.55,Fundas para mochilas
+7/28/2024,25,98,56.49,Capas para mascotas
+6/21/2024,4,64,67.89,Conjuntos de lluvia infantiles
+12/25/2024,9,97,68.09,Pantalones impermeables
+2/4/2024,4,57,67.89,Conjuntos de lluvia infantiles
+6/25/2024,23,81,43.37,Chaquetas cortas impermeables
+9/11/2024,13,33,86.6,Paraguas automáticos
+1/16/2024,11,47,21.65,Paraguas plegables
+1/29/2024,13,76,86.6,Paraguas automáticos
+4/17/2024,5,50,32.48,Guantes resistentes al agua
+11/16/2024,10,14,76.65,Botas de lluvia
+5/19/2024,3,86,78.56,Sombreros impermeables
+5/4/2024,17,73,44.34,Abrigos con capucha
+12/24/2024,20,50,43.3,Bufandas sintéticas
+3/18/2024,1,50,49.96,Mochilas impermeables
+1/11/2024,11,20,21.65,Paraguas plegables
+10/4/2024,16,5,34.67,Bolsos repelentes
+5/12/2024,14,6,36.99,Leggings repelentes
+2/4/2024,11,85,21.65,Paraguas plegables
+9/2/2024,18,33,61.98,Cubrezapatos de silicona
+9/18/2024,9,27,68.09,Pantalones impermeables
+6/11/2024,17,99,44.34,Abrigos con capucha
+8/16/2024,12,84,97.59,Zapatos impermeables urbanos
+9/23/2024,4,28,67.89,Conjuntos de lluvia infantiles
+11/13/2024,25,60,56.49,Capas para mascotas
+9/6/2024,24,72,49.31,Chalecos repelentes al agua
+7/24/2024,8,71,89.29,Paraguas pequeños
+3/5/2024,5,93,32.48,Guantes resistentes al agua
+12/9/2024,25,13,56.49,Capas para mascotas
+9/21/2024,7,44,24.65,Impermeables largos
+1/22/2024,6,35,32.48,Ponchos de lluvia
+11/7/2024,19,2,54.56,Fundas para cochecitos
+4/3/2024,15,93,34.55,Fundas para mochilas
+8/14/2024,19,80,54.56,Fundas para cochecitos
+3/1/2024,14,6,36.99,Leggings repelentes
+10/14/2024,6,10,32.48,Ponchos de lluvia
+8/25/2024,18,47,61.98,Cubrezapatos de silicona
+10/18/2024,15,78,34.55,Fundas para mochilas
+12/28/2024,8,16,89.29,Paraguas pequeños
+12/29/2024,17,85,44.34,Abrigos con capucha
+3/3/2024,7,58,24.65,Impermeables largos
+2/25/2024,8,73,89.29,Paraguas pequeños
+6/6/2024,18,50,61.98,Cubrezapatos de silicona
+1/30/2024,11,77,21.65,Paraguas plegables
+7/22/2024,19,28,54.56,Fundas para cochecitos
+4/7/2024,19,53,54.56,Fundas para cochecitos
+9/25/2024,5,72,32.48,Guantes resistentes al agua
+6/25/2024,5,9,32.48,Guantes resistentes al agua
+3/26/2024,8,34,89.29,Paraguas pequeños
+3/23/2024,5,36,32.48,Guantes resistentes al agua
+9/21/2024,8,56,89.29,Paraguas pequeños
+8/1/2024,10,81,76.65,Botas de lluvia
+5/19/2024,22,92,31.16,Gorras repelentes
+3/22/2024,24,92,49.31,Chalecos repelentes al agua
+10/31/2024,14,42,36.99,Leggings repelentes
+12/12/2024,19,7,54.56,Fundas para cochecitos
+6/23/2024,15,12,34.55,Fundas para mochilas
+12/1/2024,9,72,68.09,Pantalones impermeables
+10/30/2024,9,32,68.09,Pantalones impermeables
+12/15/2024,22,51,31.16,Gorras repelentes
+9/25/2024,24,58,49.31,Chalecos repelentes al agua
+11/7/2024,13,41,86.6,Paraguas automáticos
+4/11/2024,19,56,54.56,Fundas para cochecitos
+7/1/2024,8,58,89.29,Paraguas pequeños
+4/9/2024,15,52,34.55,Fundas para mochilas
+8/16/2024,12,5,97.59,Zapatos impermeables urbanos
+5/14/2024,16,59,34.67,Bolsos repelentes
+5/30/2024,17,37,44.34,Abrigos con capucha
+4/21/2024,9,69,68.09,Pantalones impermeables
+9/13/2024,20,4,43.3,Bufandas sintéticas
+4/16/2024,9,5,68.09,Pantalones impermeables
+11/22/2024,11,16,21.65,Paraguas plegables
+4/25/2024,14,54,36.99,Leggings repelentes
+8/11/2024,11,50,21.65,Paraguas plegables
+5/18/2024,15,51,34.55,Fundas para mochilas
+4/30/2024,25,50,56.49,Capas para mascotas
+11/16/2024,14,84,36.99,Leggings repelentes
+5/13/2024,7,41,24.65,Impermeables largos
+7/7/2024,21,20,68.95,Botas infantiles
+6/22/2024,23,31,43.37,Chaquetas cortas impermeables
+12/23/2024,17,35,44.34,Abrigos con capucha
+7/2/2024,21,49,68.95,Botas infantiles
+10/7/2024,4,22,67.89,Conjuntos de lluvia infantiles
+7/17/2024,21,17,68.95,Botas infantiles
+11/5/2024,23,31,43.37,Chaquetas cortas impermeables
+2/29/2024,20,97,43.3,Bufandas sintéticas
+2/3/2024,20,89,43.3,Bufandas sintéticas
+2/1/2024,15,97,34.55,Fundas para mochilas
+10/3/2024,20,94,43.3,Bufandas sintéticas
+10/27/2024,4,68,67.89,Conjuntos de lluvia infantiles
+4/19/2024,6,99,32.48,Ponchos de lluvia
+1/29/2024,19,60,54.56,Fundas para cochecitos
+4/6/2024,4,28,67.89,Conjuntos de lluvia infantiles
+5/6/2024,11,43,21.65,Paraguas plegables
+6/11/2024,13,79,86.6,Paraguas automáticos
+6/1/2024,8,20,89.29,Paraguas pequeños
+3/24/2024,9,58,68.09,Pantalones impermeables
+5/12/2024,14,82,36.99,Leggings repelentes
+3/10/2024,15,33,34.55,Fundas para mochilas
+7/5/2024,24,27,49.31,Chalecos repelentes al agua
+2/25/2024,19,72,54.56,Fundas para cochecitos
+9/12/2024,20,11,43.3,Bufandas sintéticas
+9/8/2024,18,79,61.98,Cubrezapatos de silicona
+11/12/2024,11,1,21.65,Paraguas plegables
+5/13/2024,24,32,49.31,Chalecos repelentes al agua
+11/8/2024,17,71,44.34,Abrigos con capucha
+2/10/2024,22,63,31.16,Gorras repelentes
+11/19/2024,20,83,43.3,Bufandas sintéticas
+8/19/2024,15,13,34.55,Fundas para mochilas
+7/6/2024,14,20,36.99,Leggings repelentes
+7/10/2024,20,12,43.3,Bufandas sintéticas
+9/23/2024,8,20,89.29,Paraguas pequeños
+3/3/2024,10,15,76.65,Botas de lluvia
+4/1/2024,23,91,43.37,Chaquetas cortas impermeables
+5/7/2024,21,45,68.95,Botas infantiles
+7/15/2024,11,25,21.65,Paraguas plegables
+7/25/2024,19,43,54.56,Fundas para cochecitos
+10/11/2024,18,46,61.98,Cubrezapatos de silicona
+11/11/2024,3,35,78.56,Sombreros impermeables
+2/27/2024,17,87,44.34,Abrigos con capucha
+11/7/2024,16,62,34.67,Bolsos repelentes
+3/7/2024,7,67,24.65,Impermeables largos
+6/30/2024,15,27,34.55,Fundas para mochilas
+3/13/2024,4,94,67.89,Conjuntos de lluvia infantiles
+10/2/2024,23,1,43.37,Chaquetas cortas impermeables
+8/13/2024,1,55,49.96,Mochilas impermeables
+7/13/2024,4,31,67.89,Conjuntos de lluvia infantiles
+12/11/2024,19,48,54.56,Fundas para cochecitos
+7/15/2024,6,53,32.48,Ponchos de lluvia
+1/30/2024,13,54,86.6,Paraguas automáticos
+1/22/2024,7,35,24.65,Impermeables largos
+4/14/2024,4,11,67.89,Conjuntos de lluvia infantiles
+10/14/2024,1,45,49.96,Mochilas impermeables
+5/18/2024,24,32,49.31,Chalecos repelentes al agua
+3/21/2024,6,42,32.48,Ponchos de lluvia
+5/18/2024,5,98,32.48,Guantes resistentes al agua
+7/28/2024,17,39,44.34,Abrigos con capucha
+11/20/2024,14,69,36.99,Leggings repelentes
+11/12/2024,23,99,43.37,Chaquetas cortas impermeables
+8/10/2024,13,65,86.6,Paraguas automáticos
+4/13/2024,21,68,68.95,Botas infantiles
+6/9/2024,25,85,56.49,Capas para mascotas
+10/11/2024,23,96,43.37,Chaquetas cortas impermeables
+8/15/2024,2,58,96.06,Overoles de lluvia
+5/10/2024,23,80,43.37,Chaquetas cortas impermeables
+11/28/2024,9,40,68.09,Pantalones impermeables
+12/26/2024,13,35,86.6,Paraguas automáticos
+10/26/2024,8,79,89.29,Paraguas pequeños
+9/13/2024,18,67,61.98,Cubrezapatos de silicona
+8/3/2024,10,94,76.65,Botas de lluvia
+6/8/2024,21,46,68.95,Botas infantiles
+7/17/2024,21,26,68.95,Botas infantiles
+7/26/2024,3,6,78.56,Sombreros impermeables
+5/11/2024,17,8,44.34,Abrigos con capucha
+1/29/2024,6,31,32.48,Ponchos de lluvia
+8/28/2024,4,11,67.89,Conjuntos de lluvia infantiles
+5/13/2024,19,56,54.56,Fundas para cochecitos
+7/7/2024,22,5,31.16,Gorras repelentes
+6/3/2024,23,27,43.37,Chaquetas cortas impermeables
+5/22/2024,7,43,24.65,Impermeables largos
+11/23/2024,15,43,34.55,Fundas para mochilas
+1/17/2024,13,59,86.6,Paraguas automáticos
+6/6/2024,18,20,61.98,Cubrezapatos de silicona
+8/24/2024,17,80,44.34,Abrigos con capucha
+1/29/2024,19,79,54.56,Fundas para cochecitos
+6/12/2024,20,31,43.3,Bufandas sintéticas
+9/13/2024,4,2,67.89,Conjuntos de lluvia infantiles
+9/6/2024,2,28,96.06,Overoles de lluvia
+2/16/2024,6,71,32.48,Ponchos de lluvia
+9/29/2024,9,75,68.09,Pantalones impermeables
+4/3/2024,21,73,68.95,Botas infantiles
+1/23/2024,16,40,34.67,Bolsos repelentes
+6/12/2024,25,13,56.49,Capas para mascotas
+12/13/2024,20,58,43.3,Bufandas sintéticas
+9/7/2024,6,18,32.48,Ponchos de lluvia
+5/29/2024,24,63,49.31,Chalecos repelentes al agua
+8/3/2024,6,79,32.48,Ponchos de lluvia
+11/28/2024,22,68,31.16,Gorras repelentes
+3/6/2024,24,43,49.31,Chalecos repelentes al agua
+4/28/2024,25,71,56.49,Capas para mascotas
+4/4/2024,16,27,34.67,Bolsos repelentes
+7/31/2024,3,72,78.56,Sombreros impermeables
+11/12/2024,24,36,49.31,Chalecos repelentes al agua
+4/20/2024,19,90,54.56,Fundas para cochecitos
+7/4/2024,8,66,89.29,Paraguas pequeños
+6/6/2024,15,54,34.55,Fundas para mochilas
+12/20/2024,12,21,97.59,Zapatos impermeables urbanos
+3/11/2024,7,9,24.65,Impermeables largos
+5/7/2024,7,33,24.65,Impermeables largos
+2/12/2024,23,77,43.37,Chaquetas cortas impermeables
+8/28/2024,10,37,76.65,Botas de lluvia
+11/27/2024,7,47,24.65,Impermeables largos
+8/10/2024,10,28,76.65,Botas de lluvia
+8/19/2024,13,18,86.6,Paraguas automáticos
+11/30/2024,5,66,32.48,Guantes resistentes al agua
+9/12/2024,22,35,31.16,Gorras repelentes
+11/17/2024,13,13,86.6,Paraguas automáticos
+12/2/2024,19,2,54.56,Fundas para cochecitos
+11/12/2024,13,51,86.6,Paraguas automáticos
+3/7/2024,3,46,78.56,Sombreros impermeables
+10/23/2024,24,12,49.31,Chalecos repelentes al agua
+2/6/2024,9,69,68.09,Pantalones impermeables
+2/24/2024,13,25,86.6,Paraguas automáticos
+8/13/2024,1,98,49.96,Mochilas impermeables
+3/15/2024,13,96,86.6,Paraguas automáticos
+10/27/2024,24,13,49.31,Chalecos repelentes al agua
+8/22/2024,2,8,96.06,Overoles de lluvia
+6/6/2024,6,87,32.48,Ponchos de lluvia
+5/10/2024,13,89,86.6,Paraguas automáticos
+1/4/2024,4,61,67.89,Conjuntos de lluvia infantiles
+10/6/2024,6,67,32.48,Ponchos de lluvia
+1/4/2024,23,51,43.37,Chaquetas cortas impermeables
+1/12/2024,17,22,44.34,Abrigos con capucha
+4/9/2024,18,80,61.98,Cubrezapatos de silicona
+3/21/2024,11,90,21.65,Paraguas plegables
+1/17/2024,14,11,36.99,Leggings repelentes
+8/29/2024,13,87,86.6,Paraguas automáticos
+12/17/2024,14,62,36.99,Leggings repelentes
+3/28/2024,4,24,67.89,Conjuntos de lluvia infantiles
+1/7/2024,5,83,32.48,Guantes resistentes al agua
+3/4/2024,17,21,44.34,Abrigos con capucha
+6/6/2024,11,6,21.65,Paraguas plegables
+4/6/2024,21,85,68.95,Botas infantiles
+6/9/2024,5,83,32.48,Guantes resistentes al agua
+9/29/2024,8,45,89.29,Paraguas pequeños
+8/18/2024,3,100,78.56,Sombreros impermeables
+6/17/2024,5,41,32.48,Guantes resistentes al agua
+1/29/2024,18,69,61.98,Cubrezapatos de silicona
+10/18/2024,5,7,32.48,Guantes resistentes al agua
+5/7/2024,14,58,36.99,Leggings repelentes
+1/24/2024,25,91,56.49,Capas para mascotas
+6/2/2024,12,91,97.59,Zapatos impermeables urbanos
+1/5/2024,19,75,54.56,Fundas para cochecitos
+7/24/2024,12,69,97.59,Zapatos impermeables urbanos
+3/18/2024,21,75,68.95,Botas infantiles
+12/23/2024,2,38,96.06,Overoles de lluvia
+2/25/2024,20,49,43.3,Bufandas sintéticas
+1/25/2024,10,93,76.65,Botas de lluvia
+12/25/2024,12,83,97.59,Zapatos impermeables urbanos
+7/20/2024,24,93,49.31,Chalecos repelentes al agua
+12/16/2024,13,62,86.6,Paraguas automáticos
+6/5/2024,1,24,49.96,Mochilas impermeables
+8/30/2024,9,83,68.09,Pantalones impermeables
+7/8/2024,21,84,68.95,Botas infantiles
+9/12/2024,11,56,21.65,Paraguas plegables
+1/31/2024,10,81,76.65,Botas de lluvia
+4/14/2024,2,9,96.06,Overoles de lluvia
+12/22/2024,25,7,56.49,Capas para mascotas
+7/5/2024,5,40,32.48,Guantes resistentes al agua
+9/25/2024,20,16,43.3,Bufandas sintéticas
+4/28/2024,16,25,34.67,Bolsos repelentes
+10/24/2024,11,80,21.65,Paraguas plegables
+10/13/2024,3,88,78.56,Sombreros impermeables
+5/28/2024,8,16,89.29,Paraguas pequeños
+11/10/2024,19,76,54.56,Fundas para cochecitos
+5/18/2024,19,100,54.56,Fundas para cochecitos
+11/28/2024,1,55,49.96,Mochilas impermeables
+7/28/2024,22,68,31.16,Gorras repelentes
+1/21/2024,12,78,97.59,Zapatos impermeables urbanos
+12/25/2024,16,91,34.67,Bolsos repelentes
+1/14/2024,7,19,24.65,Impermeables largos
+12/3/2024,24,81,49.31,Chalecos repelentes al agua
+2/4/2024,7,52,24.65,Impermeables largos
+5/21/2024,13,85,86.6,Paraguas automáticos
+7/6/2024,6,33,32.48,Ponchos de lluvia
+5/25/2024,9,67,68.09,Pantalones impermeables
+12/2/2024,2,84,96.06,Overoles de lluvia
+3/1/2024,17,43,44.34,Abrigos con capucha
+4/14/2024,9,68,68.09,Pantalones impermeables
+3/7/2024,21,24,68.95,Botas infantiles
+3/17/2024,16,96,34.67,Bolsos repelentes
+11/7/2024,25,100,56.49,Capas para mascotas
+3/16/2024,19,5,54.56,Fundas para cochecitos
+12/1/2024,19,56,54.56,Fundas para cochecitos
+2/24/2024,9,25,68.09,Pantalones impermeables
+10/13/2024,18,16,61.98,Cubrezapatos de silicona
+7/6/2024,20,74,43.3,Bufandas sintéticas
+6/26/2024,4,46,67.89,Conjuntos de lluvia infantiles
+10/12/2024,25,97,56.49,Capas para mascotas
+4/28/2024,12,41,97.59,Zapatos impermeables urbanos
+11/14/2024,21,17,68.95,Botas infantiles
+12/13/2024,11,36,21.65,Paraguas plegables
+10/10/2024,8,18,89.29,Paraguas pequeños
+4/25/2024,23,61,43.37,Chaquetas cortas impermeables
+3/16/2024,5,40,32.48,Guantes resistentes al agua
+1/12/2024,10,63,76.65,Botas de lluvia
+11/22/2024,4,37,67.89,Conjuntos de lluvia infantiles
+10/2/2024,20,14,43.3,Bufandas sintéticas
+11/16/2024,3,12,78.56,Sombreros impermeables
+9/30/2024,4,34,67.89,Conjuntos de lluvia infantiles
+1/7/2024,24,46,49.31,Chalecos repelentes al agua
+10/3/2024,13,4,86.6,Paraguas automáticos
+12/11/2024,12,83,97.59,Zapatos impermeables urbanos
+10/23/2024,15,3,34.55,Fundas para mochilas
+5/2/2024,18,47,61.98,Cubrezapatos de silicona
+10/10/2024,25,30,56.49,Capas para mascotas
+4/9/2024,1,94,49.96,Mochilas impermeables
+6/27/2024,24,70,49.31,Chalecos repelentes al agua
+2/11/2024,18,43,61.98,Cubrezapatos de silicona
+3/11/2024,11,21,21.65,Paraguas plegables
+8/30/2024,21,77,68.95,Botas infantiles
+12/28/2024,9,68,68.09,Pantalones impermeables
+1/10/2024,8,20,89.29,Paraguas pequeños
+7/15/2024,23,94,43.37,Chaquetas cortas impermeables
+7/14/2024,22,25,31.16,Gorras repelentes
+6/15/2024,24,12,49.31,Chalecos repelentes al agua
+10/17/2024,18,100,61.98,Cubrezapatos de silicona
+11/2/2024,21,46,68.95,Botas infantiles
+10/4/2024,11,67,21.65,Paraguas plegables
+10/24/2024,25,68,56.49,Capas para mascotas
+10/24/2024,4,14,67.89,Conjuntos de lluvia infantiles
+1/17/2024,14,67,36.99,Leggings repelentes
+7/29/2024,18,98,61.98,Cubrezapatos de silicona
+7/5/2024,4,98,67.89,Conjuntos de lluvia infantiles
+3/25/2024,19,68,54.56,Fundas para cochecitos
+11/9/2024,4,66,67.89,Conjuntos de lluvia infantiles
+1/25/2024,10,59,76.65,Botas de lluvia
+10/27/2024,19,21,54.56,Fundas para cochecitos
+8/26/2024,10,55,76.65,Botas de lluvia
+9/17/2024,18,93,61.98,Cubrezapatos de silicona
+9/5/2024,19,91,54.56,Fundas para cochecitos
+3/20/2024,5,25,32.48,Guantes resistentes al agua
+6/17/2024,2,59,96.06,Overoles de lluvia
+4/14/2024,12,12,97.59,Zapatos impermeables urbanos
+4/22/2024,10,48,76.65,Botas de lluvia
+10/29/2024,2,29,96.06,Overoles de lluvia
+8/3/2024,2,82,96.06,Overoles de lluvia
+4/8/2024,2,93,96.06,Overoles de lluvia
+9/5/2024,23,66,43.37,Chaquetas cortas impermeables
+1/16/2024,24,100,49.31,Chalecos repelentes al agua
+7/24/2024,6,25,32.48,Ponchos de lluvia
+5/16/2024,17,8,44.34,Abrigos con capucha
+8/18/2024,13,47,86.6,Paraguas automáticos
+2/12/2024,14,61,36.99,Leggings repelentes
+5/6/2024,3,40,78.56,Sombreros impermeables
+7/7/2024,13,68,86.6,Paraguas automáticos
+3/11/2024,9,32,68.09,Pantalones impermeables
+9/13/2024,15,42,34.55,Fundas para mochilas
+6/8/2024,19,56,54.56,Fundas para cochecitos
+5/10/2024,12,85,97.59,Zapatos impermeables urbanos
+9/27/2024,5,65,32.48,Guantes resistentes al agua
+11/24/2024,13,60,86.6,Paraguas automáticos
+4/23/2024,25,1,56.49,Capas para mascotas
+9/22/2024,18,67,61.98,Cubrezapatos de silicona
+9/10/2024,19,46,54.56,Fundas para cochecitos
+2/11/2024,12,96,97.59,Zapatos impermeables urbanos
+1/24/2024,8,73,89.29,Paraguas pequeños
+8/5/2024,5,93,32.48,Guantes resistentes al agua
+4/1/2024,2,36,96.06,Overoles de lluvia
+3/10/2024,9,77,68.09,Pantalones impermeables
+3/29/2024,19,58,54.56,Fundas para cochecitos
+5/27/2024,21,30,68.95,Botas infantiles
+5/27/2024,18,68,61.98,Cubrezapatos de silicona
+10/30/2024,8,35,89.29,Paraguas pequeños
+8/31/2024,3,29,78.56,Sombreros impermeables
+1/26/2024,22,94,31.16,Gorras repelentes
+11/26/2024,14,87,36.99,Leggings repelentes
+4/20/2024,8,70,89.29,Paraguas pequeños
+1/31/2024,12,82,97.59,Zapatos impermeables urbanos
+9/7/2024,15,7,34.55,Fundas para mochilas
+11/11/2024,2,37,96.06,Overoles de lluvia
+6/5/2024,6,14,32.48,Ponchos de lluvia
+4/2/2024,5,67,32.48,Guantes resistentes al agua
+7/21/2024,20,25,43.3,Bufandas sintéticas
+11/15/2024,23,67,43.37,Chaquetas cortas impermeables
+6/15/2024,7,8,24.65,Impermeables largos
+7/13/2024,21,94,68.95,Botas infantiles
+11/18/2024,25,54,56.49,Capas para mascotas
+12/30/2024,19,66,54.56,Fundas para cochecitos
+5/12/2024,24,22,49.31,Chalecos repelentes al agua
+3/6/2024,25,88,56.49,Capas para mascotas
+10/31/2024,5,15,32.48,Guantes resistentes al agua
+10/3/2024,21,59,68.95,Botas infantiles
+12/11/2024,2,81,96.06,Overoles de lluvia
+8/9/2024,11,56,21.65,Paraguas plegables
+1/30/2024,14,4,36.99,Leggings repelentes
+2/26/2024,2,82,96.06,Overoles de lluvia
+1/5/2024,3,8,78.56,Sombreros impermeables
+3/13/2024,5,46,32.48,Guantes resistentes al agua
+1/3/2024,4,30,67.89,Conjuntos de lluvia infantiles
+2/3/2024,5,88,32.48,Guantes resistentes al agua
+4/2/2024,4,32,67.89,Conjuntos de lluvia infantiles
+9/5/2024,10,57,76.65,Botas de lluvia
+8/24/2024,8,97,89.29,Paraguas pequeños
+12/10/2024,2,27,96.06,Overoles de lluvia
+8/3/2024,19,38,54.56,Fundas para cochecitos
+4/5/2024,8,7,89.29,Paraguas pequeños
+11/4/2024,21,61,68.95,Botas infantiles
+8/8/2024,9,4,68.09,Pantalones impermeables
+3/22/2024,2,68,96.06,Overoles de lluvia
+4/27/2024,23,57,43.37,Chaquetas cortas impermeables
+5/20/2024,2,4,96.06,Overoles de lluvia
+11/25/2024,22,20,31.16,Gorras repelentes
+12/2/2024,3,94,78.56,Sombreros impermeables
+5/11/2024,24,72,49.31,Chalecos repelentes al agua
+2/14/2024,10,60,76.65,Botas de lluvia
+3/11/2024,6,85,32.48,Ponchos de lluvia
+10/6/2024,2,64,96.06,Overoles de lluvia
+12/27/2024,22,91,31.16,Gorras repelentes
+8/2/2024,24,57,49.31,Chalecos repelentes al agua
+5/31/2024,8,90,89.29,Paraguas pequeños
+4/19/2024,23,32,43.37,Chaquetas cortas impermeables
+8/18/2024,3,97,78.56,Sombreros impermeables
+12/27/2024,2,48,96.06,Overoles de lluvia
+2/6/2024,8,92,89.29,Paraguas pequeños
+10/3/2024,7,84,24.65,Impermeables largos
+10/28/2024,10,66,76.65,Botas de lluvia
+6/3/2024,8,26,89.29,Paraguas pequeños
+11/16/2024,7,82,24.65,Impermeables largos
+10/15/2024,10,71,76.65,Botas de lluvia
+1/17/2024,3,65,78.56,Sombreros impermeables
+5/15/2024,21,26,68.95,Botas infantiles
+2/20/2024,15,12,34.55,Fundas para mochilas
+1/22/2024,13,20,86.6,Paraguas automáticos
+1/8/2024,4,7,67.89,Conjuntos de lluvia infantiles
+8/24/2024,16,87,34.67,Bolsos repelentes
+9/4/2024,21,85,68.95,Botas infantiles
+12/26/2024,16,77,34.67,Bolsos repelentes
+2/16/2024,19,27,54.56,Fundas para cochecitos
+1/26/2024,13,3,86.6,Paraguas automáticos
+10/28/2024,23,24,43.37,Chaquetas cortas impermeables
+7/15/2024,6,18,32.48,Ponchos de lluvia
+4/8/2024,12,37,97.59,Zapatos impermeables urbanos
+1/14/2024,6,4,32.48,Ponchos de lluvia
+6/30/2024,3,49,78.56,Sombreros impermeables
+4/13/2024,7,93,24.65,Impermeables largos
+9/11/2024,10,17,76.65,Botas de lluvia
+10/20/2024,21,29,68.95,Botas infantiles
+12/21/2024,25,2,56.49,Capas para mascotas
+7/25/2024,2,41,96.06,Overoles de lluvia
+1/2/2024,25,44,56.49,Capas para mascotas
+1/21/2024,10,6,76.65,Botas de lluvia
+5/15/2024,11,85,21.65,Paraguas plegables
+5/19/2024,9,60,68.09,Pantalones impermeables
+1/11/2024,1,85,49.96,Mochilas impermeables
+12/8/2024,10,82,76.65,Botas de lluvia
+5/2/2024,10,63,76.65,Botas de lluvia
+3/5/2024,12,38,97.59,Zapatos impermeables urbanos
+6/10/2024,12,55,97.59,Zapatos impermeables urbanos
+4/4/2024,19,47,54.56,Fundas para cochecitos
+2/14/2024,24,69,49.31,Chalecos repelentes al agua
+3/23/2024,19,87,54.56,Fundas para cochecitos
+3/24/2024,4,36,67.89,Conjuntos de lluvia infantiles
+9/27/2024,15,95,34.55,Fundas para mochilas
+10/11/2024,21,64,68.95,Botas infantiles
+11/24/2024,3,37,78.56,Sombreros impermeables
+12/15/2024,2,38,96.06,Overoles de lluvia
+10/1/2024,5,29,32.48,Guantes resistentes al agua
+12/25/2024,1,95,49.96,Mochilas impermeables
+2/12/2024,24,100,49.31,Chalecos repelentes al agua
+10/12/2024,3,21,78.56,Sombreros impermeables
+1/5/2024,6,16,32.48,Ponchos de lluvia
+8/19/2024,1,18,49.96,Mochilas impermeables
+3/22/2024,25,98,56.49,Capas para mascotas
+7/4/2024,20,12,43.3,Bufandas sintéticas
+4/11/2024,23,10,43.37,Chaquetas cortas impermeables
+1/6/2024,17,60,44.34,Abrigos con capucha
+6/30/2024,23,95,43.37,Chaquetas cortas impermeables
+9/27/2024,17,84,44.34,Abrigos con capucha
+1/28/2024,20,57,43.3,Bufandas sintéticas
+1/25/2024,1,2,49.96,Mochilas impermeables
+11/6/2024,5,65,32.48,Guantes resistentes al agua
+1/17/2024,8,82,89.29,Paraguas pequeños
+12/6/2024,24,74,49.31,Chalecos repelentes al agua
+11/7/2024,9,32,68.09,Pantalones impermeables
+6/12/2024,12,97,97.59,Zapatos impermeables urbanos
+7/5/2024,17,78,44.34,Abrigos con capucha
+8/15/2024,12,2,97.59,Zapatos impermeables urbanos
+2/8/2024,22,50,31.16,Gorras repelentes
+10/15/2024,7,63,24.65,Impermeables largos
+11/29/2024,25,56,56.49,Capas para mascotas
+5/14/2024,6,90,32.48,Ponchos de lluvia
+1/8/2024,12,36,97.59,Zapatos impermeables urbanos
+11/2/2024,5,85,32.48,Guantes resistentes al agua
+9/28/2024,11,72,21.65,Paraguas plegables
+3/23/2024,22,7,31.16,Gorras repelentes
+6/5/2024,9,20,68.09,Pantalones impermeables
+11/4/2024,16,59,34.67,Bolsos repelentes
+8/25/2024,18,91,61.98,Cubrezapatos de silicona
+10/26/2024,5,15,32.48,Guantes resistentes al agua
+5/3/2024,1,39,49.96,Mochilas impermeables
+3/29/2024,14,27,36.99,Leggings repelentes
+4/11/2024,9,60,68.09,Pantalones impermeables
+12/28/2024,5,68,32.48,Guantes resistentes al agua
+6/8/2024,1,4,49.96,Mochilas impermeables
+5/31/2024,6,19,32.48,Ponchos de lluvia
+12/11/2024,12,7,97.59,Zapatos impermeables urbanos
+10/28/2024,7,64,24.65,Impermeables largos
+5/27/2024,21,80,68.95,Botas infantiles
+5/3/2024,5,91,32.48,Guantes resistentes al agua
+6/21/2024,22,77,31.16,Gorras repelentes
+4/6/2024,10,34,76.65,Botas de lluvia
+10/21/2024,5,54,32.48,Guantes resistentes al agua
+3/8/2024,13,90,86.6,Paraguas automáticos
+2/15/2024,1,5,49.96,Mochilas impermeables
+5/16/2024,10,70,76.65,Botas de lluvia
+5/30/2024,11,24,21.65,Paraguas plegables
+4/13/2024,4,33,67.89,Conjuntos de lluvia infantiles
+4/11/2024,21,2,68.95,Botas infantiles
+2/15/2024,4,42,67.89,Conjuntos de lluvia infantiles
+5/18/2024,7,49,24.65,Impermeables largos
+6/1/2024,9,83,68.09,Pantalones impermeables
+6/22/2024,2,27,96.06,Overoles de lluvia
+12/8/2024,18,71,61.98,Cubrezapatos de silicona
+5/23/2024,23,9,43.37,Chaquetas cortas impermeables
+11/9/2024,10,7,76.65,Botas de lluvia
+7/24/2024,6,75,32.48,Ponchos de lluvia
+9/25/2024,22,19,31.16,Gorras repelentes
+7/7/2024,25,72,56.49,Capas para mascotas
+5/16/2024,3,97,78.56,Sombreros impermeables
+8/14/2024,3,75,78.56,Sombreros impermeables
+8/18/2024,2,53,96.06,Overoles de lluvia
+10/9/2024,24,57,49.31,Chalecos repelentes al agua
+10/16/2024,21,18,68.95,Botas infantiles
+9/8/2024,3,67,78.56,Sombreros impermeables
+5/2/2024,19,93,54.56,Fundas para cochecitos
+2/23/2024,21,26,68.95,Botas infantiles
+9/16/2024,17,9,44.34,Abrigos con capucha
+7/29/2024,21,12,68.95,Botas infantiles
+4/16/2024,25,47,56.49,Capas para mascotas
+4/13/2024,2,45,96.06,Overoles de lluvia
+8/30/2024,18,88,61.98,Cubrezapatos de silicona
+11/25/2024,9,60,68.09,Pantalones impermeables
+5/31/2024,22,99,31.16,Gorras repelentes
+4/8/2024,12,16,97.59,Zapatos impermeables urbanos
+12/17/2024,17,94,44.34,Abrigos con capucha
+10/22/2024,23,3,43.37,Chaquetas cortas impermeables
+3/9/2024,6,15,32.48,Ponchos de lluvia
+8/13/2024,20,52,43.3,Bufandas sintéticas
+11/7/2024,3,94,78.56,Sombreros impermeables
+10/25/2024,7,74,24.65,Impermeables largos
+6/25/2024,1,22,49.96,Mochilas impermeables
+8/28/2024,21,37,68.95,Botas infantiles
+12/10/2024,6,90,32.48,Ponchos de lluvia
+2/8/2024,5,7,32.48,Guantes resistentes al agua
+3/26/2024,13,75,86.6,Paraguas automáticos
+5/24/2024,18,64,61.98,Cubrezapatos de silicona
+2/4/2024,20,97,43.3,Bufandas sintéticas
+4/11/2024,22,27,31.16,Gorras repelentes
+8/29/2024,17,19,44.34,Abrigos con capucha
+7/31/2024,20,60,43.3,Bufandas sintéticas
+3/20/2024,20,38,43.3,Bufandas sintéticas
+12/9/2024,12,23,97.59,Zapatos impermeables urbanos
+9/22/2024,12,13,97.59,Zapatos impermeables urbanos
+8/17/2024,10,14,76.65,Botas de lluvia
+6/27/2024,23,53,43.37,Chaquetas cortas impermeables
+10/19/2024,24,35,49.31,Chalecos repelentes al agua
+4/6/2024,16,13,34.67,Bolsos repelentes
+7/21/2024,23,41,43.37,Chaquetas cortas impermeables
+9/4/2024,2,69,96.06,Overoles de lluvia
+10/2/2024,21,64,68.95,Botas infantiles
+3/4/2024,19,30,54.56,Fundas para cochecitos
+12/1/2024,25,22,56.49,Capas para mascotas
+3/12/2024,7,11,24.65,Impermeables largos
+1/23/2024,21,84,68.95,Botas infantiles
+9/2/2024,5,14,32.48,Guantes resistentes al agua
+10/24/2024,4,66,67.89,Conjuntos de lluvia infantiles
+1/18/2024,14,21,36.99,Leggings repelentes
+3/6/2024,15,62,34.55,Fundas para mochilas
+1/13/2024,9,52,68.09,Pantalones impermeables
+5/16/2024,18,39,61.98,Cubrezapatos de silicona
+1/7/2024,25,84,56.49,Capas para mascotas
+8/21/2024,23,64,43.37,Chaquetas cortas impermeables
+11/1/2024,12,61,97.59,Zapatos impermeables urbanos
+12/7/2024,5,47,32.48,Guantes resistentes al agua
+8/23/2024,17,44,44.34,Abrigos con capucha
+3/26/2024,14,81,36.99,Leggings repelentes
+1/21/2024,5,1,32.48,Guantes resistentes al agua
+9/27/2024,1,51,49.96,Mochilas impermeables
+12/16/2024,20,52,43.3,Bufandas sintéticas
+4/28/2024,21,84,68.95,Botas infantiles
+3/15/2024,16,47,34.67,Bolsos repelentes
+3/11/2024,10,81,76.65,Botas de lluvia
+10/15/2024,18,94,61.98,Cubrezapatos de silicona
+2/16/2024,2,12,96.06,Overoles de lluvia
+12/18/2024,19,47,54.56,Fundas para cochecitos
+7/19/2024,7,20,24.65,Impermeables largos
+12/28/2024,17,39,44.34,Abrigos con capucha
+3/25/2024,3,50,78.56,Sombreros impermeables
+6/26/2024,13,4,86.6,Paraguas automáticos
+12/21/2024,14,55,36.99,Leggings repelentes
+5/7/2024,1,61,49.96,Mochilas impermeables
+4/18/2024,14,20,36.99,Leggings repelentes
+10/13/2024,24,16,49.31,Chalecos repelentes al agua
+5/20/2024,12,48,97.59,Zapatos impermeables urbanos
+11/7/2024,8,97,89.29,Paraguas pequeños
+7/17/2024,9,86,68.09,Pantalones impermeables
+4/19/2024,18,67,61.98,Cubrezapatos de silicona
+1/2/2024,7,77,24.65,Impermeables largos
+9/13/2024,2,64,96.06,Overoles de lluvia
+12/2/2024,23,57,43.37,Chaquetas cortas impermeables
+6/1/2024,20,99,43.3,Bufandas sintéticas
+11/5/2024,25,48,56.49,Capas para mascotas
+8/27/2024,21,36,68.95,Botas infantiles
+12/8/2024,5,74,32.48,Guantes resistentes al agua
+2/12/2024,3,94,78.56,Sombreros impermeables
+9/11/2024,7,2,24.65,Impermeables largos
+7/28/2024,9,52,68.09,Pantalones impermeables
+9/8/2024,19,89,54.56,Fundas para cochecitos
+8/25/2024,15,76,34.55,Fundas para mochilas
+11/3/2024,19,72,54.56,Fundas para cochecitos
+1/7/2024,21,77,68.95,Botas infantiles
+4/28/2024,10,15,76.65,Botas de lluvia
+6/24/2024,11,25,21.65,Paraguas plegables
+4/11/2024,4,76,67.89,Conjuntos de lluvia infantiles
+3/9/2024,12,18,97.59,Zapatos impermeables urbanos
+1/24/2024,3,23,78.56,Sombreros impermeables
+4/17/2024,7,1,24.65,Impermeables largos
+7/13/2024,9,94,68.09,Pantalones impermeables
+8/8/2024,12,45,97.59,Zapatos impermeables urbanos
+10/15/2024,24,25,49.31,Chalecos repelentes al agua
+2/1/2024,5,23,32.48,Guantes resistentes al agua
+2/5/2024,6,31,32.48,Ponchos de lluvia
+4/13/2024,9,95,68.09,Pantalones impermeables
+8/27/2024,22,13,31.16,Gorras repelentes
+5/20/2024,5,84,32.48,Guantes resistentes al agua
+11/24/2024,4,36,67.89,Conjuntos de lluvia infantiles
+9/12/2024,24,27,49.31,Chalecos repelentes al agua
+7/16/2024,12,98,97.59,Zapatos impermeables urbanos
+9/4/2024,8,47,89.29,Paraguas pequeños
+9/23/2024,2,6,96.06,Overoles de lluvia
+10/5/2024,3,82,78.56,Sombreros impermeables
+8/29/2024,2,12,96.06,Overoles de lluvia
+9/5/2024,6,68,32.48,Ponchos de lluvia
+7/9/2024,19,16,54.56,Fundas para cochecitos
+5/12/2024,22,94,31.16,Gorras repelentes
+1/8/2024,5,94,32.48,Guantes resistentes al agua
+1/21/2024,11,34,21.65,Paraguas plegables
+3/23/2024,4,47,67.89,Conjuntos de lluvia infantiles
+11/4/2024,1,91,49.96,Mochilas impermeables
+5/11/2024,16,51,34.67,Bolsos repelentes
+2/28/2024,20,96,43.3,Bufandas sintéticas
+11/12/2024,16,33,34.67,Bolsos repelentes
+2/18/2024,12,74,97.59,Zapatos impermeables urbanos
+2/24/2024,20,99,43.3,Bufandas sintéticas
+2/24/2024,15,67,34.55,Fundas para mochilas
+12/20/2024,1,37,49.96,Mochilas impermeables
+8/27/2024,23,30,43.37,Chaquetas cortas impermeables
+6/30/2024,17,17,44.34,Abrigos con capucha
+5/26/2024,24,20,49.31,Chalecos repelentes al agua
+2/28/2024,10,17,76.65,Botas de lluvia
+6/4/2024,9,14,68.09,Pantalones impermeables
+8/26/2024,23,1,43.37,Chaquetas cortas impermeables
+7/5/2024,8,35,89.29,Paraguas pequeños
+3/16/2024,22,87,31.16,Gorras repelentes
+10/19/2024,20,6,43.3,Bufandas sintéticas
+11/17/2024,12,85,97.59,Zapatos impermeables urbanos
+7/19/2024,20,90,43.3,Bufandas sintéticas
+1/13/2024,10,47,76.65,Botas de lluvia
+12/29/2024,5,75,32.48,Guantes resistentes al agua
+2/10/2024,8,2,89.29,Paraguas pequeños
+7/4/2024,8,6,89.29,Paraguas pequeños
+3/7/2024,3,82,78.56,Sombreros impermeables
+8/31/2024,24,43,49.31,Chalecos repelentes al agua
+5/13/2024,11,70,21.65,Paraguas plegables
+9/18/2024,20,59,43.3,Bufandas sintéticas
+12/10/2024,16,62,34.67,Bolsos repelentes
+9/28/2024,8,92,89.29,Paraguas pequeños
+12/15/2024,11,63,21.65,Paraguas plegables
+11/7/2024,6,17,32.48,Ponchos de lluvia
+1/17/2024,5,19,32.48,Guantes resistentes al agua
+2/11/2024,19,26,54.56,Fundas para cochecitos
+3/28/2024,21,96,68.95,Botas infantiles
+5/1/2024,23,56,43.37,Chaquetas cortas impermeables
+8/31/2024,21,53,68.95,Botas infantiles
+10/27/2024,17,98,44.34,Abrigos con capucha
+2/26/2024,16,46,34.67,Bolsos repelentes
+1/19/2024,1,94,49.96,Mochilas impermeables
+12/21/2024,17,46,44.34,Abrigos con capucha
+1/22/2024,20,42,43.3,Bufandas sintéticas
+10/15/2024,2,94,96.06,Overoles de lluvia
+7/25/2024,6,84,32.48,Ponchos de lluvia
+8/20/2024,4,8,67.89,Conjuntos de lluvia infantiles
+4/23/2024,17,45,44.34,Abrigos con capucha
+11/23/2024,13,58,86.6,Paraguas automáticos
+2/13/2024,1,96,49.96,Mochilas impermeables
+5/26/2024,16,30,34.67,Bolsos repelentes
+1/16/2024,12,67,97.59,Zapatos impermeables urbanos
+9/12/2024,10,10,76.65,Botas de lluvia
+2/5/2024,9,36,68.09,Pantalones impermeables
+1/23/2024,19,47,54.56,Fundas para cochecitos
+7/22/2024,24,36,49.31,Chalecos repelentes al agua
+6/11/2024,11,71,21.65,Paraguas plegables
+2/12/2024,25,98,56.49,Capas para mascotas
+7/23/2024,16,20,34.67,Bolsos repelentes
+12/6/2024,6,91,32.48,Ponchos de lluvia
+3/30/2024,10,28,76.65,Botas de lluvia
+4/12/2024,1,9,49.96,Mochilas impermeables
+3/7/2024,11,97,21.65,Paraguas plegables
+1/24/2024,7,53,24.65,Impermeables largos
+2/18/2024,13,27,86.6,Paraguas automáticos
+8/4/2024,14,62,36.99,Leggings repelentes
+12/12/2024,17,18,44.34,Abrigos con capucha
+4/26/2024,8,100,89.29,Paraguas pequeños
+10/10/2024,20,30,43.3,Bufandas sintéticas
+5/9/2024,9,19,68.09,Pantalones impermeables
+8/1/2024,6,35,32.48,Ponchos de lluvia
+4/17/2024,22,8,31.16,Gorras repelentes
+4/15/2024,6,94,32.48,Ponchos de lluvia
+9/28/2024,2,3,96.06,Overoles de lluvia
+11/20/2024,25,48,56.49,Capas para mascotas
+6/19/2024,25,70,56.49,Capas para mascotas
+6/19/2024,7,100,24.65,Impermeables largos
+7/30/2024,13,1,86.6,Paraguas automáticos
+3/28/2024,15,57,34.55,Fundas para mochilas
+1/9/2024,22,9,31.16,Gorras repelentes
+5/12/2024,21,44,68.95,Botas infantiles
+12/17/2024,13,48,86.6,Paraguas automáticos
+1/3/2024,5,11,32.48,Guantes resistentes al agua
+9/29/2024,17,80,44.34,Abrigos con capucha
+10/18/2024,2,88,96.06,Overoles de lluvia
+11/26/2024,6,60,32.48,Ponchos de lluvia
+1/19/2024,16,32,34.67,Bolsos repelentes
+12/4/2024,17,46,44.34,Abrigos con capucha
+4/5/2024,9,57,68.09,Pantalones impermeables
+8/20/2024,17,23,44.34,Abrigos con capucha
+11/22/2024,22,51,31.16,Gorras repelentes
+6/12/2024,12,77,97.59,Zapatos impermeables urbanos
+1/24/2024,7,16,24.65,Impermeables largos
+4/14/2024,16,67,34.67,Bolsos repelentes
+1/29/2024,7,73,24.65,Impermeables largos
+4/15/2024,22,73,31.16,Gorras repelentes
+5/19/2024,10,85,76.65,Botas de lluvia
+7/3/2024,8,60,89.29,Paraguas pequeños
+10/7/2024,2,94,96.06,Overoles de lluvia
+6/7/2024,24,71,49.31,Chalecos repelentes al agua
+5/25/2024,3,10,78.56,Sombreros impermeables
+9/28/2024,25,83,56.49,Capas para mascotas
+7/9/2024,25,70,56.49,Capas para mascotas
+10/7/2024,12,14,97.59,Zapatos impermeables urbanos
+8/18/2024,8,32,89.29,Paraguas pequeños
+7/6/2024,16,6,34.67,Bolsos repelentes
+6/16/2024,5,47,32.48,Guantes resistentes al agua
+11/23/2024,5,83,32.48,Guantes resistentes al agua
+10/30/2024,23,1,43.37,Chaquetas cortas impermeables
+1/1/2024,7,44,24.65,Impermeables largos
+3/23/2024,20,94,43.3,Bufandas sintéticas
+9/11/2024,2,6,96.06,Overoles de lluvia
+12/28/2024,13,80,86.6,Paraguas automáticos
+9/19/2024,15,48,34.55,Fundas para mochilas
+2/23/2024,15,40,34.55,Fundas para mochilas
+1/10/2024,8,73,89.29,Paraguas pequeños
+4/2/2024,4,59,67.89,Conjuntos de lluvia infantiles
+6/14/2024,20,74,43.3,Bufandas sintéticas
+9/25/2024,12,51,97.59,Zapatos impermeables urbanos
+2/10/2024,4,92,67.89,Conjuntos de lluvia infantiles
+4/23/2024,23,12,43.37,Chaquetas cortas impermeables
+12/30/2024,18,25,61.98,Cubrezapatos de silicona
+7/13/2024,18,69,61.98,Cubrezapatos de silicona
+11/23/2024,14,4,36.99,Leggings repelentes
+6/5/2024,2,97,96.06,Overoles de lluvia
+7/16/2024,24,33,49.31,Chalecos repelentes al agua
+3/22/2024,18,23,61.98,Cubrezapatos de silicona
+11/13/2024,5,32,32.48,Guantes resistentes al agua
+7/18/2024,14,100,36.99,Leggings repelentes
+11/16/2024,23,54,43.37,Chaquetas cortas impermeables
+6/21/2024,18,32,61.98,Cubrezapatos de silicona
+8/14/2024,20,23,43.3,Bufandas sintéticas
+4/19/2024,11,65,21.65,Paraguas plegables
+5/26/2024,19,55,54.56,Fundas para cochecitos
+7/4/2024,15,90,34.55,Fundas para mochilas
+12/7/2024,17,57,44.34,Abrigos con capucha
+12/15/2024,15,43,34.55,Fundas para mochilas
+9/8/2024,22,92,31.16,Gorras repelentes
+1/16/2024,19,7,54.56,Fundas para cochecitos
+2/20/2024,17,36,44.34,Abrigos con capucha
+1/27/2024,4,69,67.89,Conjuntos de lluvia infantiles
+9/6/2024,2,100,96.06,Overoles de lluvia
+2/29/2024,12,1,97.59,Zapatos impermeables urbanos
+5/21/2024,12,78,97.59,Zapatos impermeables urbanos
+9/1/2024,5,23,32.48,Guantes resistentes al agua
+11/5/2024,14,16,36.99,Leggings repelentes
+5/23/2024,15,18,34.55,Fundas para mochilas
+9/17/2024,11,35,21.65,Paraguas plegables
+3/27/2024,12,11,97.59,Zapatos impermeables urbanos
+8/17/2024,20,11,43.3,Bufandas sintéticas
+4/18/2024,5,89,32.48,Guantes resistentes al agua
+4/12/2024,19,75,54.56,Fundas para cochecitos
+6/16/2024,20,57,43.3,Bufandas sintéticas
+2/27/2024,8,53,89.29,Paraguas pequeños
+12/20/2024,4,89,67.89,Conjuntos de lluvia infantiles
+4/22/2024,8,61,89.29,Paraguas pequeños
+2/8/2024,7,68,24.65,Impermeables largos
+11/4/2024,22,31,31.16,Gorras repelentes
+4/22/2024,11,58,21.65,Paraguas plegables
+2/27/2024,16,20,34.67,Bolsos repelentes
+3/31/2024,8,100,89.29,Paraguas pequeños
+7/13/2024,24,79,49.31,Chalecos repelentes al agua
+3/17/2024,10,54,76.65,Botas de lluvia
+3/3/2024,22,3,31.16,Gorras repelentes
+10/31/2024,19,37,54.56,Fundas para cochecitos
+5/3/2024,24,39,49.31,Chalecos repelentes al agua
+1/14/2024,14,17,36.99,Leggings repelentes
+12/25/2024,12,69,97.59,Zapatos impermeables urbanos
+11/6/2024,15,35,34.55,Fundas para mochilas
+5/21/2024,13,70,86.6,Paraguas automáticos
+6/14/2024,17,48,44.34,Abrigos con capucha
+6/12/2024,17,10,44.34,Abrigos con capucha
+3/6/2024,13,26,86.6,Paraguas automáticos
+12/14/2024,12,27,97.59,Zapatos impermeables urbanos
+4/7/2024,9,59,68.09,Pantalones impermeables
+9/13/2024,12,66,97.59,Zapatos impermeables urbanos
+6/25/2024,1,43,49.96,Mochilas impermeables
+11/28/2024,6,65,32.48,Ponchos de lluvia
+12/23/2024,1,27,49.96,Mochilas impermeables
+5/3/2024,13,6,86.6,Paraguas automáticos
+7/8/2024,8,73,89.29,Paraguas pequeños
+12/3/2024,13,50,86.6,Paraguas automáticos
